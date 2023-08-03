@@ -22,4 +22,8 @@ cd - : Back to the future command.
 
 ls -al . .. /boot : list hidden file for two or more directory.
 
-file /tmp/iamafile : type of the file command
+file /tmp/iamafile : type of the file command.
+
+ln -s /bin/ls --ls-- : Create a symbolic link command.
+
+cp -nu *.html .. : copy command with condition [n : for not existing file/ u : update].
