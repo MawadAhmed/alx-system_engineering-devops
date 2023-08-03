@@ -27,3 +27,4 @@ file /tmp/iamafile : type of the file command.
 ln -s /bin/ls --ls-- : Create a symbolic link command.
 
 cp -nu *.html .. : copy command with condition [n : for not existing file/ u : update].
+su : switches the current user to the user command.
