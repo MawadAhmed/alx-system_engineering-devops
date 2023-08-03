@@ -20,5 +20,5 @@ rm /tmp/my_first_directory : delete directory command.
 
 cd - : Back to the future command.
 
-ls -al alx-system_engineering-devops/0x00-shell_basics  .. /boot : list hidden file for two or more directory.
+ls -al . .. /boot : list hidden file for two or more directory.
 
