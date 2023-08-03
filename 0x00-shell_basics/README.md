@@ -10,3 +10,5 @@ ls -al : Display current directory contents, including hidden files (starting wi
 
 ls -na : Display current directory contens numerically.
 
+mkdir  /tmp/my_first_directory/ : creates a directory named my_first_directory in the /tmp/ directory.
+
