@@ -18,3 +18,4 @@ rm /tmp/my_first_directory/betty : delete The file betty is in /tmp/my_first_dir
 
 rm /tmp/my_first_directory : delete directory command.
 
+cd - : Back to the future command.
