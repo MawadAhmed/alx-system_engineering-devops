@@ -22,3 +22,4 @@ cd - : Back to the future command.
 
 ls -al . .. /boot : list hidden file for two or more directory.
 
+file /tmp/iamafile : type of the file command
