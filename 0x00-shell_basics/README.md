@@ -27,3 +27,11 @@ file /tmp/iamafile : type of the file command.
 ln -s /bin/ls --ls-- : Create a symbolic link command.
 
 cp -nu *.html .. : copy command with condition [n : for not existing file/ u : update].
+
+mv [[:upper:]]*  /tmp/u : move all files that begin wilt uppercase to the  /tmp/u.
+
+rm *~ : remove all files that end with ~ from the current directory.
+
+mkdir welcome/ welcome/to/ welcome/to/school : make three directories.
+
+
