@@ -16,3 +16,5 @@ chmod 751 or 555 hello : add more premission.
 
 chmod 007 hello : change premission.
 
+chmod 753 hello : chamge premission.
+
