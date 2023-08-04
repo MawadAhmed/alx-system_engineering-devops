@@ -22,3 +22,5 @@ chomd --reference= olleh hello : sets the mode of the file hello the same as oll
 
 chmod -R ogu+x : adds execute permission to all subdirectories of the current directory command.
 
+mkdir -m 751 my_dir : make directory wit permission command.
+
