@@ -30,3 +30,4 @@ chmod username:groupname* : chage onwer  to vincent and the group owner to staff
 
 chown --from=guillaume delly hello : change owner if and only the condition is correct.
 
+telnet towel.blinkenlights.nl: to play the StarWars IV episode in the terminal.
