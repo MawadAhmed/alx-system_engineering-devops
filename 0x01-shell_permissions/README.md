@@ -24,3 +24,4 @@ chmod -R ogu+x : adds execute permission to all subdirectories of the current di
 
 mkdir -m 751 my_dir : make directory wit permission command.
 
+sudo chgrp school hello : change group owner to school command.
