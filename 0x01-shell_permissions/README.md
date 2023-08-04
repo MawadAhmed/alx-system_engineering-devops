@@ -18,3 +18,4 @@ chmod 007 hello : change premission.
 
 chmod 753 hello : chamge premission.
 
+chomd --reference= olleh hello : sets the mode of the file hello the same as olleh’s mode command.
