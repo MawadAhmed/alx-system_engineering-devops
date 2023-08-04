@@ -34,4 +34,8 @@ rm *~ : remove all files that end with ~ from the current directory.
 
 mkdir welcome/ welcome/to/ welcome/to/school : make three directories.
 
+ls -xamp : view list with special condition.
+
+0 stringSCHOOLSchooldata
+!:mimeSchool : detect for string in files wiht condition command.
 
