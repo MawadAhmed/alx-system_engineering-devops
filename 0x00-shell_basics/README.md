@@ -36,6 +36,7 @@ mkdir welcome/ welcome/to/ welcome/to/school : make three directories.
 
 ls -xamp : view list with special condition.
 
-0 stringSCHOOLSchooldata
-!:mimeSchool : detect for string in files wiht condition command.
+0   string SCHOOL School data
+!:mime School : detect for string in files wiht condition command.=====> file -C -m school : for do mgc file > -C : for compiler , -m: for specifiy new file name school ====> school.mgc file created =====> delete school file.
+
 
