@@ -18,9 +18,9 @@ chmod 007 hello : change premission.
 
 chmod 753 hello : chamge premission.
 
-chomd --reference= olleh hello : sets the mode of the file hello the same as olleh’s mode command.
+chomd --reference=olleh hello : sets the mode of the file hello the same as olleh’s mode command.
 
-chmod -R ogu+x : adds execute permission to all subdirectories of the current directory command.
+chmod -R ugo+x : adds execute permission to all subdirectories of the current directory command.
 
 mkdir -m 751 my_dir : make directory wit permission command.
 
