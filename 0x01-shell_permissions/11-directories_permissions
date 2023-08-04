@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R -dreference  ugo+X
+sudo chmod -R -dreference  755
