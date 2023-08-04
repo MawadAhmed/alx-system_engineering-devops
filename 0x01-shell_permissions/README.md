@@ -12,7 +12,7 @@ chmod 744 hello : adds execute permission to the owner of the file hello command
 
 chmod 754 hello : add premission command.
 
-chmod 751 or 555 hello : add more premission.
+chmod ugo+x hello : add more premission.
 
 chmod 007 hello : change premission.
 
@@ -27,4 +27,6 @@ mkdir -m 751 my_dir : make directory wit permission command.
 sudo chgrp school hello : change group owner to school command.
 
 chmod username:groupname* : chage onwer  to vincent and the group owner to staff for all the files and directories in the working directory.
+
+chown --from=guillaume delly hello : change owner if and only the condition is correct.
 
