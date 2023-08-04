@@ -8,3 +8,5 @@ sudo chown betty hello: change the owner of the file command.
 
 touch hello : create empty file command.
 
+chmod 100 hello : adds execute permission to the owner of the file hello command.
+
