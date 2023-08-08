@@ -11,3 +11,5 @@ tail -n 10 /etc/passwd : Display the last 10 line in the file.
 
 head -n 10 /etc/passwd : Display the first 10 line in the file.
 
+awk 'NR==3' iacta : Display line 3 in the file.
+
