@@ -13,3 +13,5 @@ head -n 10 /etc/passwd : Display the first 10 line in the file.
 
 awk 'NR==3' iacta or cat iacta | head -n 3 | tail -n +3 : Display line 3 in the file.
 
+\ : Display the special characters.
+
