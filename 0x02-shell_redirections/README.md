@@ -1,2 +1,5 @@
 #!/bin/bash
-echo  “Hello, World” : a script that prints output.
+echoHello, World : a script that prints output.
+
+echo\"(Ôo)': ignore " or special characters.
+ 
