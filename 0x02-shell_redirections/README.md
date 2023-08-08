@@ -7,3 +7,5 @@ cat /etc/passwd : Display the content of the file.
 
 cat two file : Display the content of thr two file.
 
+tail -n /etc/passwd : Display the last 10 line in the file.
+
