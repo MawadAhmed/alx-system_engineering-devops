@@ -8,3 +8,5 @@ echo $PATH | tr ":" "\n" | wc -l: count the number of the directory in thr PATH 
 
 printenv : print lists environment variables.
 
+ste : print lists all local variables and environment variables, and functions.
+
