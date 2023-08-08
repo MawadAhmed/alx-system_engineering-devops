@@ -5,3 +5,5 @@ echo "\"(Ôo)'" : ignore " or special characters.
  
 cat /etc/passwd : Display the content of the file.
 
+cat two file : Display the content of thr two file.
+
