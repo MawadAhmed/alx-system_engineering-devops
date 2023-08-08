@@ -15,3 +15,5 @@ awk 'NR==3' iacta or cat iacta | head -n 3 | tail -n +3 : Display line 3 in the 
 
 \ : Display the special characters.
 
+ls -al file : put the output of ls -al in the file.
+
