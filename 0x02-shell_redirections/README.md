@@ -17,3 +17,10 @@ awk 'NR==3' iacta or cat iacta | head -n 3 | tail -n +3 : Display line 3 in the 
 
 ls -al file : put the output of ls -al in the file.
 
+find -name "*.js" -type f -delete: delete all file with .js in the current directory and all its subfolder.
+
+find . -mindepth l -type d | wc -l: 
+Write a script that counts the number of directories and sub-directories without the current and parent directories.
+
+
+
