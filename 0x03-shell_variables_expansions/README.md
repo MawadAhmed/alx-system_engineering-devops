@@ -14,3 +14,8 @@ varname="value" : create local variable with value.
 
 export varname="value" : create global variable with value.
 
+echo $((128 + $TRUEKNOWLEDGE)): prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE .
+	
+echo $(($POWER / $DIVIDE)): prints the result of POWER divided by DIVIDE.
+
+
