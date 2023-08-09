@@ -24,5 +24,6 @@ echo $((2#$BINARY)): converts a number from base 2 to base 10.The number in base
 
 echo {a..z}{a..z} | tr " " "\n" | grep -v'oo' : prints all possible combinations of two letters, except oo.
 
+echo $((.2$NUM)) : prints a number with two decimal places.
 
 
