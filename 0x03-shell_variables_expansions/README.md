@@ -12,3 +12,5 @@ ste : print lists all local variables and environment variables, and functions.
 
 varname="value" : create local variable with value.
 
+export varname="value" : create global variable with value.
+
