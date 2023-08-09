@@ -18,4 +18,5 @@ echo $((128 + $TRUEKNOWLEDGE)): prints the result of the addition of 128 with th
 	
 echo $(($POWER / $DIVIDE)): prints the result of POWER divided by DIVIDE.
 
+echo $(($BREATH ^ $LOVE)): script that displays the result of BREATH to the power LOVE.
 
