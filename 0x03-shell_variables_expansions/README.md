@@ -20,3 +20,5 @@ echo $(($POWER / $DIVIDE)): prints the result of POWER divided by DIVIDE.
 
 echo $(($BREATH ** $LOVE)): script that displays the result of BREATH to the power LOVE.
 
+echo $((2#$BINARY)): converts a number from base 2 to base 10.The number in base 2 is stored in the environment variable BINARY.
+
