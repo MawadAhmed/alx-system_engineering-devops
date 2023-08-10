@@ -34,6 +34,9 @@ grep -A 3 'root' /etc/passwd: Display lines containing the pattern “root” an
 
 cat /etc/passwd |grep -v 'bin': Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+cat /etc/ssh/sshd_config | grep '^[[:upper:]]\|^[[:lower:]]': Display all lines of the file /etc/ssh/sshd_config starting with a letter include capital letters.
+
+tr Ac Ze: Replace A and c with Z and e.
 
 
 
