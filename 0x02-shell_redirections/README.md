@@ -38,6 +38,10 @@ cat /etc/ssh/sshd_config | grep '^[[:upper:]]\|^[[:lower:]]': Display all lines 
 
 tr Ac Ze: Replace A and c with Z and e.
 
+tr -d cC : delete c and C from input.
+
+rev : reverse its input.
+
 
 
 
