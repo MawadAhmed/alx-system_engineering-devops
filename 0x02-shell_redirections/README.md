@@ -24,5 +24,8 @@ Write a script that counts the number of directories and sub-directories without
 
 ls -t | head -n l0: display 10 newest file in the current directory.
 
+sort | uniq -u : sort and display unique words.
+
+grep "root" /etc/passwd: Display lines containing the pattern “root” from the file /etc/passwd.
 
 
