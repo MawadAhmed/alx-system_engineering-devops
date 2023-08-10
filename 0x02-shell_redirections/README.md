@@ -42,6 +42,5 @@ tr -d cC : delete c and C from input.
 
 rev : reverse its input.
 
-
-
+cat /etc/passwd | cut -d ':' -f1,6 | sort: displays all users and their home directories, sorted by users Based on the /etc/passwd file
 
