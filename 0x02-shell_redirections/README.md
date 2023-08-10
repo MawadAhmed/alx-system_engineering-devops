@@ -30,6 +30,8 @@ grep 'root' /etc/passwd: Display lines containing the pattern “root” from th
 
 grep 'bin' /etc/passwd |wc -l: Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
 
+grep -A 3 'root' /etc/passwd: Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
 
 
 
